@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <Layout>
       <div className="page">
-        <h1>Hello world - fixed</h1>
+        <h1>Hello world - fixed env</h1>
         <main></main>
       </div>
       <style jsx>{`
